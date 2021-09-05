@@ -1,5 +1,6 @@
 .container-fluid{
     background-image: url(/images/small\ boy.jpg);
+
     background-size:cover;
 
 }
@@ -9,3 +10,15 @@ html{
     font-weight: bolder;
 }
 
+.landing{
+    text-align: center;
+;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    text-emphasis: bolder;
+    text-size-adjust: large;
+
+}
