@@ -1,0 +1,11 @@
+.container-fluid{
+    background-image: url(/images/small\ boy.jpg);
+    background-size:cover;
+
+}
+
+html{
+    font-size: large;
+    font-weight: bolder;
+}
+
