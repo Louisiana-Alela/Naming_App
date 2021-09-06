@@ -1,29 +1,41 @@
-.container-fluid{
-    background-image: url(/images/small\ boy.jpg);
-
-    background-size:cover;
-
-}
-
 html{
     font-size: large;
     font-weight: bolder;
 }
 
-.landing{
-    text-align: center;
-;
+body{
+    background-image: url(/images/small\ boy.jpg);
+    padding: auto;
     background-repeat: no-repeat;
     background-size: cover;
+    backdrop-filter: blur(15px);
+} 
+
+#intro{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 1%;
+    background-image: url(/images/happy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blue;
+    padding: 20px;
+    backdrop-filter: 5px;
 }
 
-.title{
+#abt-sec{
+    text-align: center;
+    padding-bottom: 5%;
+    color: #000;    
+}
+
+.row{
+    text-align: center;
+}
+.heading{
     text-emphasis: bolder;
     text-size-adjust: large;
-
-}
-
-.about{
     text-align: center;
-    
+    color: blueviolet;
+
 }
