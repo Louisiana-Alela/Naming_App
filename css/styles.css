@@ -32,10 +32,30 @@ body{
 .row{
     text-align: center;
 }
+
 .heading{
     text-emphasis: bolder;
     text-size-adjust: large;
     text-align: center;
     color: blueviolet;
+}
 
+#fill{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: burlywood;
+}
+
+#alert{
+    color: red;
+}
+
+.container{
+    background-color: silver;
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+    background-color: snow;
 }
